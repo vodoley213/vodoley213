@@ -1,4 +1,4 @@
-# 🏄‍♂️ Vlad (vodoley213)
+# Hi there, I am Vlad 🙋
 
 **`HTML, CSS, & JavaScript`**
 
