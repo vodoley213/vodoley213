@@ -5,7 +5,7 @@
 ## I'm a Mathematition, Numerical modeler of hydrodynamics and Web developer
 
 - 🔬 “The more I know, the more I realize I know nothing”
-- ⚡ 2022 Goals: Learn more about JavaScript
+- ⚡ 2023 Goals: Learn more about JavaScript
 - 😃 Fun fact: I love riding my custom bike 🚲 and photographing 📷
 
 ## 🧰 Languages and Tools
