@@ -17,4 +17,4 @@
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <br />
 <br />
-<img src="https://www.codewars.com/users/vodoley213/badges/large" alt="Codewars badge">
+<img src="https://www.codewars.com/users/vodoley213/badges/small" alt="Codewars badge">
