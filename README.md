@@ -1,6 +1,6 @@
 # Hi there, I am Vlad 🙋
 
-**`HTML, CSS, & JavaScript`**
+**`HTML, CSS, JavaScript & Node.js`**
 
 ## I'm a Mathematition, Numerical modeler of hydrodynamics and Web developer
 
